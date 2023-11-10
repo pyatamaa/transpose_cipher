@@ -1,5 +1,14 @@
 # Pengertian Transpose(Row Column) Cipher
-program enkripsi sederhana menggunakan metode transpose(Row Column Cipher) untuk mengenkripsi username dan password
+
+Cipherteks diperoleh dengan mengubah posisi huruf di dalam
+plaintekls.
+
+Dengan kata lain, algoritma ini melakukan transpose terhadap
+rangkaian huruf di dalam plainteks.
+
+Nama lain untuk metode ini adalah permutasi, karena transpose
+setiap karakter di dalam teks sama dengan mempermutasikan
+karakter-karakter tersebut.
 
 # Tampilan dari program
 
