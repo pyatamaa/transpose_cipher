@@ -1,4 +1,4 @@
-<img width="622" alt="image" src="https://github.com/pyatamaa/transpose_cipher/assets/92738041/c430b331-4461-4baf-bda4-c70bd1c04c9f"># Pengertian Transpose(Row Column) Cipher
+# Pengertian Transpose(Row Column) Cipher
 
 Cipherteks diperoleh dengan mengubah posisi huruf di dalam
 plaintekls.
