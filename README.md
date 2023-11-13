@@ -66,7 +66,7 @@ Dari tabel ini, kita dapat melihat bahwa teks cipher adalah “12a3dmi23n1”, t
 
 ### Dekripsi:
 
-1. Teks cipher adalah hasil dari proses enkripsi, yaitu “12a3dmi23n1”, dan kunci adalah 3.
+1. Teks cipher adalah hasil dari proses enkripsi, yaitu “123aidnm123”, dan kunci adalah 3.
 2. Pertama, kita membuat tabel dengan 3 kolom (sesuai dengan kunci) dan menulis teks cipher ke dalam tabel tersebut dari atas ke bawah dan dari kiri ke kanan.
 3. Kemudian, kita membaca teks plainteks dari tabel tersebut dari kiri ke kanan dan dari atas ke bawah.
 Berikut adalah tabel yang menunjukkan proses ini:
